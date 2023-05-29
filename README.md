@@ -1,1 +1,1 @@
-# angular-first-project
+# Learn Angular
